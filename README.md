@@ -1,7 +1,5 @@
 # Computer-Networks
 
-# Computer Networks Projects
-
 This repository contains various projects related to Computer Networks, implemented using Cisco Packet Tracer, TCP, and UDP protocols. Each folder includes solutions and source code for different networking tasks.
 
 ## Folders Overview
